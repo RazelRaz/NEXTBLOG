@@ -1,0 +1,24 @@
+.mainmenu {
+    background-color: #028673;
+    padding: 20px 0;
+}
+
+.logobox {
+    text-align: center;
+    clear: #fff;
+}
+
+.logobox h1{
+    font-size: 20px;
+}
+
+.logo {
+
+}
+
+.logo a{
+    text-decoration: none;
+    background: #fff;
+    padding: 10px;
+    border-radius: 4px 18px 4px 17px;
+}

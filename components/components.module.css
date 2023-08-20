@@ -39,3 +39,17 @@
     color: #fff;
     font-size: 18px;
 }
+
+/* footer area */
+
+.footerARea {
+    background-color: #1c282e;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.footerARea p{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+}

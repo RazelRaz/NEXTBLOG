@@ -8,9 +8,7 @@
     clear: #fff;
 }
 
-.logobox h1{
-    font-size: 20px;
-}
+
 
 .logo {
 
@@ -21,4 +19,22 @@
     background: #fff;
     padding: 10px;
     border-radius: 4px 18px 4px 17px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.thememenu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-top: 28px;
+}
+
+
+.thememenu ul a{
+    text-decoration: none;
+    margin: 0 10px;
+    color: #fff;
+    font-size: 18px;
 }

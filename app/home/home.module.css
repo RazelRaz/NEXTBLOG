@@ -1,0 +1,38 @@
+.homebox {
+    background: url(../../public/images/post-of-the-month.webp);
+    padding: 80px 50px;
+    margin: 50px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.homeLeft {
+    text-align: center;
+    background-color: #028673;
+    opacity: 0.8;
+    padding: 50px 20px;
+}
+
+.homeLeft h1{
+    color: white;
+    font-size: 50px;
+}
+
+.homeLeft p{
+    margin-bottom: 40px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.homeLeft a{
+    text-decoration: none;
+    color: #028673;
+    background-color: white;
+    padding: 20px 70px;
+}

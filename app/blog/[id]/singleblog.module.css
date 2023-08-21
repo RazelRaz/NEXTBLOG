@@ -1,0 +1,15 @@
+.singleBLog {
+    padding: 80px 50px;
+}
+
+.singleBLog img{
+    width:100%;
+}
+
+.singleBLog h2{
+    margin-top:20px;
+}
+
+.singleBLog p{
+    margin-top:20px;
+}

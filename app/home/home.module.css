@@ -37,3 +37,33 @@
     background-color: white;
     padding: 20px 70px;
 }
+
+/* media query */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+    
+
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+@media (min-width: 320px) and (max-width: 480px) {
+    .homeLeft p {
+        font-size: 16px;
+    }
+    .homeLeft h1 {
+        color: white;
+        font-size: 30px;
+    }
+    .homebox {
+        padding: 50px 10px;
+        margin: 50px;
+        height: auto !important;
+    }
+    
+    
+}

@@ -53,3 +53,41 @@
     font-size: 16px;
     font-weight: 300;
 }
+
+.formArea {
+    display: flex;
+    flex-direction: column;
+    padding-top: 80px;
+    padding-bottom: 120px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.formArea input{
+    height:50px;
+    padding: 0 10px;
+    margin-bottom:20px;
+    border-radius: 40px;
+    outline:none;
+    border: 2px solid #028673;
+}
+
+.formArea textarea {
+    padding: 20px 20px;
+    border-radius: 40px;
+    outline:none;
+    border: 2px solid #028673;
+}
+
+.formArea button {
+    background: #028673;
+    border: none;
+    color:#fff;
+    width:40%;
+    height:50px;
+    border-radius: 40px;
+    margin: 0 auto;
+    margin-top:20px;
+    cursor:pointer;
+    font-size:18px;
+}

@@ -1,9 +1,13 @@
 import React from 'react';
+import styles from './blog.module.css'
 
 const BlogPage = () => {
     return (
-        <div>
-            <h1>Blog Page</h1>
+        <div className={styles.blogArea}>
+            <div className={styles.aboutBreadCrumb}>
+                <h1>BLOG</h1>
+            </div>
+            
         </div>
     );
 };

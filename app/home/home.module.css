@@ -14,7 +14,7 @@
 
 .homeLeft {
     text-align: center;
-    background-color: #028673;
+    background-color: #000;
     opacity: 0.8;
     padding: 50px 20px;
 }
@@ -28,6 +28,7 @@
     margin-bottom: 40px;
     margin-top: 20px;
     font-size: 25px;
+    color: white;
 }
 
 .homeLeft a{

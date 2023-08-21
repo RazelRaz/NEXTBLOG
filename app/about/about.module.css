@@ -35,3 +35,19 @@
     font-size: 40px;
 
 }
+
+.aboutContent {
+    text-align: center;
+    padding: 100px 80px;
+    
+}
+
+.aboutContent h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.aboutContent p{
+    margin-top: 30px;
+    font-size: 20px;
+}

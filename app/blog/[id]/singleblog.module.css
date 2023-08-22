@@ -14,3 +14,13 @@
     margin-top:20px;
 }
 
+.backToBlog {
+    margin-top: 50px;
+}
+
+.backToBlog a {
+    text-decoration: none;
+    background-color: #028673;
+    color: #fff;
+    padding: 10px 20px;
+}

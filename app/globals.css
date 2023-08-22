@@ -11,3 +11,13 @@
 .my-color {
   color: red;
 }
+
+.loadingPage {
+  height:100vh;
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  background-color: #028673;
+  color: #FFF;
+}

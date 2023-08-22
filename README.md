@@ -1,6 +1,6 @@
 # NEXTBLOG - A Next.js 13 Blog App with REST API
 
-
+![NextBlog Preview](https://github.com/RazelRaz/NEXTBLOG/blob/main/public/images/Screenshot.png)
 
 Welcome to **NEXTBLOG**, a cutting-edge blog application built using Next.js 13 and a RESTful API. This project showcases a well-structured and feature-rich web application for publishing and reading blog posts. Whether you're a blogger or a reader, NEXTBLOG provides an intuitive user experience and a host of functionalities to explore.
 
